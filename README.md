@@ -1,7 +1,7 @@
 ## Python | Javascript | ReactJS | Flask | SQL | GCP | Next.js
 
 ### About me
-Hi, I,m José Manuel Vera. I like to code and work with data. I'm skilled in Python, Flask, Javascript, React, Machine Learning and Data Engineering. I have done projects in web development, cloud computing, data engineering, machine learning, scientific computing and data analysis.
+Hi, I'm José Manuel Vera. I like to code and work with data. I'm skilled in Python, Flask, Javascript, React, Machine Learning and Data Engineering. I have done projects in web development, cloud computing, data engineering, machine learning, scientific computing and data analysis.
 
 ![jomavera's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomavera&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomavera&theme=transparent&layout=compact&hide=jupyter%20notebook)
 
